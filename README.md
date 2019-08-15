@@ -7,6 +7,18 @@ The preprocessed datasets are in the `data` directory (`e.g. data/ml1m.txt`). Ea
 a `user id` and an `item id`, where both user id and item id are indexed from 1 consecutively. Each line represents one interaction between the user 
 and the item. For every user, their interactions were sorted by timestamp.
 
+## Papers
+SSE regualrization is used. One can refer to the paper below for more details:
+[Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers](https://arxiv.org/abs/1905.10630)
+```
+@article{wu2019stochastic,
+  title={Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers},
+  author={Wu, Liwei and Li, Shuqing and Hsieh, Cho-Jui and Sharpnack, James},
+  journal={arXiv preprint arXiv:1905.10630},
+  year={2019}
+}
+```
+
 ## Options
 The training of the SSE-PT model is handled by the main.py script that provides the following command line arguments.
 ```
