@@ -57,3 +57,5 @@ The following is the plot of NDCG@10 versus training time (Seconds) for SASRec, 
   <img width="600" src="ml1m_speed.png">
 </p>
 
+## Acknowledgements
+We based our codes on [SASRec](https://github.com/kang205/SASRec).
