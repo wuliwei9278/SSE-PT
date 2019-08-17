@@ -8,7 +8,9 @@ a `user id` and an `item id`, where both user id and item id are indexed from 1 
 and the item. For every user, their interactions were sorted by timestamp.
 
 ## Papers
-SSE regualrization is used. One can refer to the paper below for more details:
+Our paper is at [arxiv](https://arxiv.org/abs/1908.05435)
+
+It is worth noting that a new regualrization technique called SSE is used. One can refer to the paper below for more details:
 [Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers](https://arxiv.org/abs/1905.10630)
 ```
 @article{wu2019stochastic,
