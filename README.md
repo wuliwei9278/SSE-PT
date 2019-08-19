@@ -8,7 +8,16 @@ a `user id` and an `item id`, where both user id and item id are indexed from 1 
 and the item. For every user, their interactions were sorted by timestamp.
 
 ## Papers
-Our paper is at [arxiv](https://arxiv.org/abs/1908.05435)
+Our paper is on [arxiv](https://arxiv.org/abs/1908.05435).
+One can cite:
+```
+@article{wu2019temporal,
+  title={Temporal Collaborative Ranking Via Personalized Transformer},
+  author={Wu, Liwei and Li, Shuqing and Hsieh, Cho-Jui and Sharpnack, James},
+  journal={arXiv preprint arXiv:1908.05435},
+  year={2019}
+}
+```
 
 It is worth noting that a new regualrization technique called SSE is used. One can refer to the paper below for more details:
 [Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers](https://arxiv.org/abs/1905.10630)
