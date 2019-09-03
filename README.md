@@ -20,7 +20,7 @@ One can cite:
 ```
 
 It is worth noting that a new regualrization technique called SSE is used. One can refer to the paper below for more details:
-[Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers](https://arxiv.org/abs/1905.10630)
+[Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers](https://arxiv.org/abs/1905.10630) It has been accepted to NeurIPS 2019. We will present the work at Vancouver, Canada.
 ```
 @article{wu2019stochastic,
   title={Stochastic Shared Embeddings: Data-driven Regularization of Embedding Layers},
