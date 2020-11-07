@@ -8,7 +8,7 @@ a `user id` and an `item id`, where both user id and item id are indexed from 1 
 and the item. For every user, their interactions were sorted by timestamp.
 
 ## Papers
-Our paper has been accepted to ACM Recommender Systems Conference 2020 for long paper (https://dl.acm.org/doi/10.1145/3383313.3412258) and our pre-print version is on [arxiv](https://arxiv.org/abs/1908.05435) or our ICLR borderline-rejected version https://openreview.net/forum?id=HkeuD34KPH.
+Our paper has been accepted to ACM Recommender Systems Conference 2020 and selected for `Best Long Paper Candidates` (https://dl.acm.org/doi/10.1145/3383313.3412258) and our pre-print version is on [arxiv](https://arxiv.org/abs/1908.05435) or our ICLR borderline-rejected version https://openreview.net/forum?id=HkeuD34KPH.
 One can cite one of below for now:
 ```
 @article{wu2019temporal,
