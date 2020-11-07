@@ -11,11 +11,12 @@ and the item. For every user, their interactions were sorted by timestamp.
 Our paper has been accepted to ACM Recommender Systems Conference 2020 and selected for `Best Long Paper Candidates` (https://dl.acm.org/doi/10.1145/3383313.3412258) and our pre-print version is on [arxiv](https://arxiv.org/abs/1908.05435) or our ICLR borderline-rejected version https://openreview.net/forum?id=HkeuD34KPH.
 One can cite one of below for now:
 ```
-@article{wu2019temporal,
-  title={Temporal Collaborative Ranking Via Personalized Transformer},
+@inproceedings{wu2020sse,
+  title={SSE-PT: Sequential Recommendation Via Personalized Transformer},
   author={Wu, Liwei and Li, Shuqing and Hsieh, Cho-Jui and Sharpnack, James},
-  journal={arXiv preprint arXiv:1908.05435},
-  year={2019}
+  booktitle={Fourteenth ACM Conference on Recommender Systems},
+  pages={328--337},
+  year={2020}
 }
 ```
 or
