@@ -67,8 +67,8 @@ To train our model on the default `ml1m` data with default parameters:
 ```
 python3 main.py
 ``` 
-To train a SSE-PT model on `ml1m` data using a maxlen of 200, a dropout rate of 0.2, a SSE probability of 0.08 for user side 
-and a SSE probability of 0.9 for item side.
+To train a SSE-PT model on `ml1m` data using a maxlen of 200, a dropout rate of 0.2, a SSE probability of 0.92 for user side 
+and a SSE probability of 0.1 for item side.
 ```
 python3 main.py --maxlen=200 --dropout_rate 0.2 --threshold_user 0.08 --threshold_item 0.9
 ```
